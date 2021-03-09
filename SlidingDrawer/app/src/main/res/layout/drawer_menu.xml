@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="start|center_vertical"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background"
+    android:paddingLeft="16dp">
+
+    <TextView
+        android:id="@+id/txtContactUs"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_gravity="start|center_vertical"
+        android:text="Contact us"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/txtAirTurnPedal"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_gravity="start|center_vertical"
+        android:text="AirTurn Pedal"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/txtAboutUs"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_gravity="start|center_vertical"
+        android:text="About us"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/txtLogout"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_gravity="start|center_vertical"
+        android:text="Logout"
+        android:textColor="@android:color/black"/>
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SlidingDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="contact_us">https://www.noviscore.com/contact-us/</string>
+    <string name="about_us">https://www.noviscore.com/page/who/</string>
+</resources>
